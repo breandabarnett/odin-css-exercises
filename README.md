@@ -1,3 +1,10 @@
+# 🎨 odin-css-exercises
+Exercises to practice CSS by <a href="https://www.theodinproject.com/lessons/foundations-css-foundations">The Odin Project</a>
+<br />
+<br />
+
+<hr />
+
 # CSS Exercises
 
 These exercises are a series of CSS related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
