@@ -3,6 +3,12 @@
   font-size: 36px;
 }
 
+#four {
+  background: #80ff81;
+  font-size: 24px;
+  font-weight: bold;
+}
+
 .odd {
   background: #ffa7a7;
   font-family: Verdana, DejaVu Sans, sans-serif;
